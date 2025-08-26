@@ -4,6 +4,10 @@
     font-size: 25px;
   }
 
+  .moisshop-overview {
+    font-size:15px;
+  }
+
   .news {
     font-size:25px;
   }
@@ -90,3 +94,4 @@
 @media (max-width:550px){
   .product-box{ width: 96%; }
 }
+
