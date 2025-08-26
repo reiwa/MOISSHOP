@@ -302,7 +302,7 @@ article {
   height: 375px;
   border: solid 2px skyblue;
   border-radius: 10px;
-  margin-left: 6%;
+  margin-left: 2%;
   margin-top: 5px;
   margin-bottom: 10px;
   text-align: center;
@@ -542,5 +542,6 @@ footer{
   overflow: hidden;
   padding-bottom: 1px;
 }
+
 
 
