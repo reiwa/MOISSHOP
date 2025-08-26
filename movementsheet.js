@@ -1,6 +1,6 @@
 ﻿    var loaded = 0;
     var loaded2 = 0;
-    var loadednews = 1;
+    var loadednews = 6;
     //↑この変数の値をニュースの数に変える。
     var lng = 0;
     var maxnews = loadednews + 1;
@@ -267,4 +267,5 @@
     $(function(){
       shownews();
       effect();
+
     });
