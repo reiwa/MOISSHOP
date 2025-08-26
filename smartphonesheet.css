@@ -92,7 +92,8 @@
   .product-box{ width: 47%; }
 }
 @media (max-width:550px){
-  .product-box{ width: 88%; }
+  .product-box{ width: 88%; margin-left: 6%; }
 }
+
 
 
