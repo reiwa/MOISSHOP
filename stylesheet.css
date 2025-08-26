@@ -539,6 +539,7 @@ footer{
 
 .wrap {
   position: relative;
-  overflow-x: hidden;
+  overflow: hidden;
   padding-bottom: 1px;
 }
+
